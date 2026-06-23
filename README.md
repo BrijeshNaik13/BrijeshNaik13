@@ -12,7 +12,6 @@
 🌱 Currently Learning:
 - Advanced Java
 - Spring Boot
-- Machine Learning
 - Full Stack Development
 
 👨‍💻 Passionate about building real-world applications and solving problems through technology.
