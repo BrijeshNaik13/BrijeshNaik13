@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Naik</h1>
-<h3 align="center">Software Development Intern | Java Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Development Intern | Java Developer | Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
